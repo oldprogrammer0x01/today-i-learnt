@@ -49,7 +49,7 @@ See list:
 43. [how to see PWD of the process](#how-to-see-pwd-of-the-process)
 44. [how to unzip a multipart spanned zip on linux](#how-to-unzip-a-multipart-spanned-zip-on-linux)
 45. [how to see differenct between two text file](#how-to-see-differenct-between-two-text-file)
-46. [find and delete all empty directories](##find-and-delete-all-empty-directories)
+46. [find and delete all empty directories](#find-and-delete-all-empty-directories)
 
 ### increase upload max limit in Wordpress, PHP8.0-fpm and Nginx
 
