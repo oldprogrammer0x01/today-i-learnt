@@ -49,6 +49,7 @@ See list:
 43. [how to see PWD of the process](#how-to-see-pwd-of-the-process)
 44. [how to unzip a multipart spanned zip on linux](#how-to-unzip-a-multipart-spanned-zip-on-linux)
 45. [how to see differenct between two text file](#how-to-see-differenct-between-two-text-file)
+46. [find and delete all empty directories](##find-and-delete-all-empty-directories)
 
 ### increase upload max limit in Wordpress, PHP8.0-fpm and Nginx
 
@@ -524,5 +525,11 @@ Simply find the process id `PID` and run
 ### how to see differenct between two text file
 
 Use `comm` command with two sorted files (see manpage how to do it)
+
+[top](#prolog)
+
+### find and delete all empty directories
+
+Follow this [SO answer](https://stackoverflow.com/questions/2810838/finding-empty-directories).
 
 [top](#prolog)
